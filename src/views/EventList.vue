@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Events Listing</h1>
+    <h1>Events Listing: View Here</h1>
     <router-link :to="{ name: 'event-show', params: { id: '1' } }">
       Show Event
     </router-link>
