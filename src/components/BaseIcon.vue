@@ -61,7 +61,7 @@ export default {
   align-items: center;
   color: rgba(0, 0, 0, 0.4);
   font-size: 1rem;
-  font-weight: 600;
+  font-weight: 601;
   margin-right: 6px;
 }
 .icon {
