@@ -40,7 +40,7 @@ export default {
     },
     height: {
       type: [Number, String],
-      default: 24,
+      default: 26,
     },
   },
   computed: {
